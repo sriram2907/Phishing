@@ -43,13 +43,3 @@ Add the URL that u want to test in the `test_api.py` file and In another termina
 python test_api.py
 ```
 The `testapi.py` sends a URL as a JSON payload and receives a response indicating whether the URL is phishing or legitimate.
-
-
-<img src="https://github.com/user-attachments/assets/e9251536-649c-4a75-8a26-7ab3fa9637b4" alt="image" height="150" />
-
-
-
-
-
-
-"# Phishing" 
